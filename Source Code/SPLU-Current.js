@@ -1049,6 +1049,8 @@ function saveMultipleGamePlays(file) {
         return 27172;
       case 131: // Port Royal
         return 156009;
+      case 379: // Praga Caput Regni
+        return 308765;
       case 320: // Puerto Rico (Cards)
         return 166669;
       case 328: // QANGO
